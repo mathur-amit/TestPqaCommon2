@@ -1,0 +1,14 @@
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\ConsoleDLLConsumer.exe.config
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\ConsoleDLLConsumer.exe
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\ConsoleDLLConsumer.pdb
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\First17DLL.dll
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\First17DLL.pdb
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\obj\Debug\ConsoleDLLConsumer.csprojAssemblyReference.cache
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\obj\Debug\ConsoleDLLConsumer.csproj.CoreCompileInputs.cache
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\obj\Debug\ConsoleDLLConsumer.csproj.CopyComplete
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\obj\Debug\ConsoleDLLConsumer.exe
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\obj\Debug\ConsoleDLLConsumer.pdb
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\TestService.dll
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\TestService.pdb
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\PQACommon.dll
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\ConsoleDLLConsumer\bin\Debug\PQACommon.pdb

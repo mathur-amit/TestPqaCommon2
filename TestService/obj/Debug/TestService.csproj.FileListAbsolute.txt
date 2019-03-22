@@ -1,0 +1,6 @@
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\TestService\bin\Debug\TestService.dll
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\TestService\bin\Debug\TestService.pdb
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\TestService\obj\Debug\TestService.dll
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\TestService\obj\Debug\TestService.pdb
+C:\1_DEVELOPMENT\CMX\TestProjects\ConsoleDLLConsumer\TestService\obj\Debug\TestService.csprojAssemblyReference.cache
